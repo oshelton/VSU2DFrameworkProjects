@@ -1,0 +1,29 @@
+HGE Started..
+
+HGE version: 1.70
+Date: 07.05.2009, 18:48:37
+
+Application: Predator & Prey Simulator
+OS: Windows 5.1.2600
+Memory: 2096532K total, 1422020K free
+
+D3D Driver: nv4_disp.dll
+Description: NVIDIA Quadro FX 1400
+Version: 6.14.11.6265
+Mode: 800 x 600 x X8R8G8B8
+
+Init done.
+
+HGE Started..
+
+HGE version: 1.70
+Date: 07.05.2009, 18:48:37
+
+Application: Predator & Prey Simulator
+OS: Windows 5.1.2600
+Memory: 2096532K total, 1419384K free
+
+Can't register window class
+
+Finishing..
+The End.

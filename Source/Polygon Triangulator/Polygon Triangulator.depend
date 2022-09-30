@@ -1,0 +1,1798 @@
+# depslib dependency file v1.0
+1239820358 source:j:\course work\2d framework  projects\source\polygon triangulator\source\pointshape.cpp
+	<hgecolor.h>
+	<SceneManager.h>
+	<LineRenderable.h>
+	<TextRenderable.h>
+	<SceneNode.h>
+	<Utils.h>
+	"PointShape.h"
+
+1234912778 j:\course work\2d framework  projects\source\framework\dependencies\hge\include\hgecolor.h
+	"hge.h"
+
+1234981218 j:\course work\2d framework  projects\source\framework\dependencies\hge\include\hge.h
+	<windows.h>
+
+1239760210 j:\course work\2d framework  projects\source\framework\source\include\scenemanager.h
+	<map>
+	<list>
+	<string>
+	<hgevector.h>
+	"dll.h"
+	"RenderOriginator.h"
+	"UpdateOriginator.h"
+
+1234912778 j:\course work\2d framework  projects\source\framework\dependencies\hge\include\hgevector.h
+	"hge.h"
+	<math.h>
+
+1239797840 j:\course work\2d framework  projects\source\framework\source\include\dll.h
+
+1239760206 j:\course work\2d framework  projects\source\framework\source\include\renderoriginator.h
+	<list>
+	"dll.h"
+
+1239760374 j:\course work\2d framework  projects\source\framework\source\include\updateoriginator.h
+	<list>
+	"dll.h"
+
+1239760204 j:\course work\2d framework  projects\source\framework\source\include\linerenderable.h
+	<vector>
+	<string>
+	<hgevector.h>
+	<hgecolor.h>
+	"Renderable.h"
+	"dll.h"
+
+1239760208 j:\course work\2d framework  projects\source\framework\source\include\renderable.h
+	<string>
+	<hgevector.h>
+	"dll.h"
+	"Component.h"
+	"RenderableListener.h"
+	"BindableManaged.h"
+
+1239760074 j:\course work\2d framework  projects\source\framework\source\include\component.h
+	<string>
+	<list>
+	"dll.h"
+	"BindableManaged.h"
+
+1239760074 j:\course work\2d framework  projects\source\framework\source\include\bindablemanaged.h
+	"dll.h"
+
+1239760208 j:\course work\2d framework  projects\source\framework\source\include\renderablelistener.h
+	<list>
+	"dll.h"
+
+1239760210 j:\course work\2d framework  projects\source\framework\source\include\scenenode.h
+	<string>
+	<map>
+	<hgevector.h>
+	<hgecolor.h>
+	"dll.h"
+	"BindableManaged.h"
+
+1238854114 j:\course work\2d framework  projects\source\polygon triangulator\include\\pointshape.h
+	<string>
+	<hgevector.h>
+	"CyclicVector.h"
+
+1238855524 source:j:\course work\2d framework  projects\source\polygon triangulator\source\triangleshape.cpp
+	<hgecolor.h>
+	<SceneManager.h>
+	<TriangleRenderable.h>
+	<Utils.h>
+	<SceneNode.h>
+	"TriangleShape.h"
+
+1239797790 j:\course work\2d framework  projects\source\framework\source\include\trianglerenderable.h
+	<vector>
+	<hgecolor.h>
+	"dll.h"
+	"Renderable.h"
+
+1239760374 j:\course work\2d framework  projects\source\framework\source\include\utils.h
+	<map>
+	<string>
+	<fstream>
+	<hgevector.h>
+	"dll.h"
+
+1238853894 j:\course work\2d framework  projects\source\polygon triangulator\include\\triangleshape.h
+	<string>
+	<hgevector.h>
+
+1239741704 source:j:\course work\2d framework  projects\source\polygon triangulator\source\main.cpp
+	<SystemManager.h>
+	"AlgorithmState.h"
+
+1239760288 j:\course work\2d framework  projects\source\framework\source\include\systemmanager.h
+	<string>
+	<map>
+	<hge.h>
+	"dll.h"
+
+1238853766 j:\course work\2d framework  projects\source\polygon triangulator\include\\algorithmstate.h
+	<SystemState.h>
+
+1239760288 j:\course work\2d framework  projects\source\framework\source\include\systemstate.h
+	"UpdateListener.h"
+	<string>
+	"dll.h"
+
+1239760372 j:\course work\2d framework  projects\source\framework\source\include\updatelistener.h
+	<list>
+	"dll.h"
+
+1239821934 source:j:\course work\2d framework  projects\source\polygon triangulator\source\algorithmstate.cpp
+	<ScriptManager.h>
+	<GuiManager.h>
+	<SystemManager.h>
+	<InputManager.h>
+	<CEGUI.h>
+	<CEGUIEventArgs.h>
+	<hgevector.h>
+	<Utils.h>
+	"AlgorithmRunner.h"
+	"PointShape.h"
+	"TriangleShape.h"
+	"CyclicVector.h"
+	"AlgorithmState.h"
+
+1239760078 j:\course work\2d framework  projects\source\framework\source\include\guimanager.h
+	<string>
+	<list>
+	"dll.h"
+
+1239760204 j:\course work\2d framework  projects\source\framework\source\include\inputmanager.h
+	<hgevector.h>
+	"dll.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\cegui.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIRect.h"
+	"CEGUIExceptions.h"
+	"CEGUITexture.h"
+	"CEGUIRenderer.h"
+	"CEGUIImageset.h"
+	"CEGUIImagesetManager.h"
+	"CEGUILogger.h"
+	"CEGUIMouseCursor.h"
+	"CEGUIFont.h"
+	"CEGUIFontManager.h"
+	"CEGUIEventArgs.h"
+	"CEGUIEvent.h"
+	"CEGUIEventSet.h"
+	"CEGUIGlobalEventSet.h"
+	"CEGUIProperty.h"
+	"CEGUIPropertySet.h"
+	"CEGUIWindow.h"
+	"CEGUIWindowFactory.h"
+	"CEGUIWindowFactoryManager.h"
+	"CEGUIWindowManager.h"
+	"CEGUIWindowRenderer.h"
+	"CEGUIWindowRendererManager.h"
+	"CEGUIScheme.h"
+	"CEGUISchemeManager.h"
+	"CEGUISystem.h"
+	"CEGUIScriptModule.h"
+	"CEGUICoordConverter.h"
+	"CEGUIPropertyHelper.h"
+	"falagard/CEGUIFalWidgetLookManager.h"
+	"elements/CEGUIButtonBase.h"
+	"elements/CEGUIPushButton.h"
+	"elements/CEGUICheckbox.h"
+	"elements/CEGUIRadioButton.h"
+	"elements/CEGUITitlebar.h"
+	"elements/CEGUIFrameWindow.h"
+	"elements/CEGUIProgressBar.h"
+	"elements/CEGUIEditbox.h"
+	"elements/CEGUIThumb.h"
+	"elements/CEGUISlider.h"
+	"elements/CEGUIScrollbar.h"
+	"elements/CEGUIListbox.h"
+	"elements/CEGUICombobox.h"
+	"elements/CEGUIListHeader.h"
+	"elements/CEGUIMultiColumnList.h"
+	"elements/CEGUIGUISheet.h"
+	"elements/CEGUIListboxTextItem.h"
+	"elements/CEGUIComboDropList.h"
+	"elements/CEGUIMultiLineEditbox.h"
+	"elements/CEGUITabButton.h"
+	"elements/CEGUITabControl.h"
+	"elements/CEGUISpinner.h"
+	"elements/CEGUIDragContainer.h"
+	"elements/CEGUIScrolledContainer.h"
+	"elements/CEGUIScrollablePane.h"
+	"elements/CEGUITooltip.h"
+	"elements/CEGUIItemEntry.h"
+	"elements/CEGUIMenuItem.h"
+	"elements/CEGUIItemListBase.h"
+	"elements/CEGUIMenuBase.h"
+	"elements/CEGUIMenubar.h"
+	"elements/CEGUIPopupMenu.h"
+	"elements/CEGUIScrolledItemListBase.h"
+	"elements/CEGUIItemListbox.h"
+
+1172148794 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguibase.h
+	<cassert>
+	"CEGUIConfig.h"
+	"CEGUIVersion.h"
+	<string>
+	"CEGUIForwardRefs.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiconfig.h
+
+1164374188 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiversion.h
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiforwardrefs.h
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguistring.h
+	"CEGUIBase.h"
+	<string>
+	<string.h>
+	<stdexcept>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguirect.h
+	"CEGUIBase.h"
+	"CEGUIVector.h"
+	"CEGUISize.h"
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguivector.h
+	"CEGUIBase.h"
+	"CEGUISize.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguisize.h
+	"CEGUIBase.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiexceptions.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguitexture.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguirenderer.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIRect.h"
+	"CEGUIColourRect.h"
+	"CEGUIEventSet.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguicolourrect.h
+	"CEGUIBase.h"
+	"CEGUIcolour.h"
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguicolour.h
+	"CEGUIBase.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguieventset.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIEvent.h"
+	"CEGUIIteratorBase.h"
+	<map>
+
+1156939390 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguievent.h
+	"CEGUIString.h"
+	"CEGUIBoundSlot.h"
+	"CEGUISubscriberSlot.h"
+	"CEGUIRefCounted.h"
+	<map>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiboundslot.h
+	"CEGUIBase.h"
+	"CEGUISubscriberSlot.h"
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguisubscriberslot.h
+	"CEGUIBase.h"
+	"CEGUIFreeFunctionSlot.h"
+	"CEGUIFunctorCopySlot.h"
+	"CEGUIFunctorReferenceSlot.h"
+	"CEGUIFunctorPointerSlot.h"
+	"CEGUIMemberFunctionSlot.h"
+	"CEGUIFunctorReferenceBinder.h"
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifreefunctionslot.h
+	"CEGUISlotFunctorBase.h"
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguislotfunctorbase.h
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifunctorcopyslot.h
+	"CEGUISlotFunctorBase.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifunctorreferenceslot.h
+	"CEGUISlotFunctorBase.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifunctorpointerslot.h
+	"CEGUISlotFunctorBase.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguimemberfunctionslot.h
+	"CEGUISlotFunctorBase.h"
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifunctorreferencebinder.h
+
+1156939390 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguirefcounted.h
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiiteratorbase.h
+	"CEGUIBase.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiimageset.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIRect.h"
+	"CEGUIColourRect.h"
+	"CEGUIImagesetManager.h"
+	"CEGUIImage.h"
+	"CEGUIIteratorBase.h"
+	"CEGUIXMLSerializer.h"
+	<map>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiimagesetmanager.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUIIteratorBase.h"
+	<map>
+
+1162050960 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguisingleton.h
+	"CEGUIBase.h"
+	<cassert>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiimage.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIRect.h"
+	"CEGUIColourRect.h"
+	"CEGUIVector.h"
+	"CEGUISize.h"
+	"CEGUIRenderer.h"
+	"CEGUIXMLSerializer.h"
+	<map>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguixmlserializer.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	<vector>
+	<iostream>
+	<CEGUI/XMLSerializer.h>
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguilogger.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	<fstream>
+	<sstream>
+	<vector>
+	<utility>
+	"CEGUISingleton.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguimousecursor.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUIVector.h"
+	"CEGUIRect.h"
+	"CEGUIEventSet.h"
+	"CEGUIInputEvent.h"
+	"CEGUIUDim.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiinputevent.h
+	"CEGUIBase.h"
+	"CEGUIEventArgs.h"
+	"CEGUIString.h"
+	"CEGUIVector.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguieventargs.h
+	"CEGUIBase.h"
+
+1161583570 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiudim.h
+	"CEGUIRect.h"
+	"CEGUIVector.h"
+
+1162050960 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifont.h
+	"CEGUIBase.h"
+	"CEGUIPropertySet.h"
+	"CEGUIString.h"
+	"CEGUIRect.h"
+	"CEGUIVector.h"
+	"CEGUIColourRect.h"
+	"CEGUIXMLSerializer.h"
+	"CEGUIImage.h"
+	<map>
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguipropertyset.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIIteratorBase.h"
+	"CEGUIProperty.h"
+	<map>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiproperty.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIXMLSerializer.h"
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifontmanager.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUIIteratorBase.h"
+	<map>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiglobaleventset.h
+	"CEGUIEventSet.h"
+	"CEGUISingleton.h"
+
+1164374188 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindow.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIVector.h"
+	"CEGUIRect.h"
+	"CEGUISize.h"
+	"CEGUIEventSet.h"
+	"CEGUIPropertySet.h"
+	"CEGUISystem.h"
+	"CEGUIInputEvent.h"
+	"CEGUIWindowProperties.h"
+	"CEGUIUDim.h"
+	"CEGUIRenderCache.h"
+	"CEGUIWindowRenderer.h"
+	<vector>
+	<set>
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguisystem.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUIRenderer.h"
+	"CEGUIMouseCursor.h"
+	"CEGUIInputEvent.h"
+	"CEGUIResourceProvider.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiresourceprovider.h
+	"CEGUIBase.h"
+	"CEGUIDataContainer.h"
+	"CEGUIString.h"
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguidatacontainer.h
+	"CEGUIBase.h"
+
+1164374188 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindowproperties.h
+	"CEGUIProperty.h"
+	"CEGUIXMLSerializer.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguirendercache.h
+	"CEGUIVector.h"
+	"CEGUIRect.h"
+	"CEGUIImage.h"
+	"CEGUIFont.h"
+	<vector>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindowrenderer.h
+	"CEGUIWindow.h"
+	"CEGUIProperty.h"
+	<vector>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindowfactory.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIWindow.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindowfactorymanager.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUILogger.h"
+	"CEGUIIteratorBase.h"
+	<map>
+	<vector>
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindowmanager.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUILogger.h"
+	"CEGUIIteratorBase.h"
+	<map>
+	<vector>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindowrenderermanager.h
+	"CEGUIWindowRenderer.h"
+	"CEGUISingleton.h"
+	<map>
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguischeme.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISchemeManager.h"
+	<vector>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguischememanager.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUIIteratorBase.h"
+	<map>
+
+1156778898 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiscriptmodule.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIEvent.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguicoordconverter.h
+	"CEGUIUDim.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguipropertyhelper.h
+	"CEGUIWindow.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalwidgetlookmanager.h
+	"CEGUISingleton.h"
+	"CEGUIString.h"
+	"CEGUIExceptions.h"
+	"falagard/CEGUIFalWidgetLookFeel.h"
+	<map>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalwidgetlookfeel.h
+	"falagard/CEGUIFalStateImagery.h"
+	"falagard/CEGUIFalWidgetComponent.h"
+	"falagard/CEGUIFalImagerySection.h"
+	"falagard/CEGUIFalPropertyInitialiser.h"
+	"falagard/CEGUIFalPropertyDefinition.h"
+	"falagard/CEGUIFalPropertyLinkDefinition.h"
+	"falagard/CEGUIFalNamedArea.h"
+	<map>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalstateimagery.h
+	"falagard/CEGUIFalLayerSpecification.h"
+	"CEGUIWindow.h"
+	<set>
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifallayerspecification.h
+	"falagard/CEGUIFalSectionSpecification.h"
+	"CEGUIWindow.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalsectionspecification.h
+	"CEGUIWindow.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalwidgetcomponent.h
+	"falagard/CEGUIFalDimensions.h"
+	"falagard/CEGUIFalPropertyInitialiser.h"
+	"CEGUIWindow.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifaldimensions.h
+	"falagard/CEGUIFalEnums.h"
+	"CEGUIString.h"
+	"CEGUIUDim.h"
+	"CEGUIXMLSerializer.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalenums.h
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalpropertyinitialiser.h
+	"CEGUIPropertySet.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalimagerysection.h
+	"falagard/CEGUIFalImageryComponent.h"
+	"falagard/CEGUIFalTextComponent.h"
+	"falagard/CEGUIFalFrameComponent.h"
+	"CEGUIXMLSerializer.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalimagerycomponent.h
+	"falagard/CEGUIFalComponentBase.h"
+	"CEGUIXMLSerializer.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalcomponentbase.h
+	"falagard/CEGUIFalDimensions.h"
+	"CEGUIWindow.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifaltextcomponent.h
+	"falagard/CEGUIFalComponentBase.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalframecomponent.h
+	"falagard/CEGUIFalComponentBase.h"
+	"CEGUIXMLSerializer.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalpropertydefinition.h
+	"CEGUIFalPropertyDefinitionBase.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalpropertydefinitionbase.h
+	"CEGUIProperty.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalpropertylinkdefinition.h
+	"falagard/CEGUIFalPropertyDefinitionBase.h"
+
+1156778896 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalnamedarea.h
+	"falagard/CEGUIFalDimensions.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguibuttonbase.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguipushbutton.h
+	"CEGUIBase.h"
+	"elements/CEGUIButtonBase.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguicheckbox.h
+	"CEGUIBase.h"
+	"elements/CEGUIButtonBase.h"
+	"elements/CEGUICheckboxProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguicheckboxproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiradiobutton.h
+	"CEGUIBase.h"
+	"elements/CEGUIButtonBase.h"
+	"elements/CEGUIRadioButtonProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiradiobuttonproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguititlebar.h
+	"CEGUIWindow.h"
+	"elements/CEGUITitlebarProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguititlebarproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiframewindow.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIFrameWindowProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiframewindowproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiprogressbar.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIProgressBarProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiprogressbarproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguieditbox.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIEditboxProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguieditboxproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguithumb.h
+	"CEGUIPushButton.h"
+	"elements/CEGUIThumbProperties.h"
+	<utility>
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguithumbproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguislider.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUISliderProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguisliderproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrollbar.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIScrollbarProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrollbarproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistbox.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIListboxProperties.h"
+	<vector>
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistboxproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguicombobox.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIComboboxProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguicomboboxproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistheader.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIListHeaderSegment.h"
+	"elements/CEGUIListHeaderProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistheadersegment.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIListHeaderSegmentProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistheadersegmentproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistheaderproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimulticolumnlist.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"CEGUIListHeader.h"
+	"elements/CEGUIMultiColumnListProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimulticolumnlistproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiguisheet.h
+	"CEGUIWindow.h"
+	"CEGUIWindowFactory.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistboxtextitem.h
+	"elements/CEGUIListboxItem.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistboxitem.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIColourRect.h"
+	"CEGUIRenderCache.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguicombodroplist.h
+	"elements/CEGUIListbox.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimultilineeditbox.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"CEGUIFont.h"
+	"elements/CEGUIMultiLineEditboxProperties.h"
+	<vector>
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimultilineeditboxproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguitabbutton.h
+	"CEGUIBase.h"
+	"elements/CEGUIButtonBase.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguitabcontrol.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUITabControlProperties.h"
+	<vector>
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguitabcontrolproperties.h
+	"CEGUIProperty.h"
+
+1162821662 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguispinner.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUISpinnerProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguispinnerproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguidragcontainer.h
+	"CEGUIWindow.h"
+	"CEGUIWindowFactory.h"
+	"elements/CEGUIDragContainerProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguidragcontainerproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrolledcontainer.h
+	"CEGUIWindow.h"
+	"CEGUIWindowFactory.h"
+	"elements/CEGUIScrolledContainerProperties.h"
+	<map>
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrolledcontainerproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrollablepane.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIScrollablePaneProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrollablepaneproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguitooltip.h
+	"CEGUIWindow.h"
+	"elements/CEGUITooltipProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguitooltipproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiitementry.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIItemEntryProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiitementryproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimenuitem.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIItemEntry.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiitemlistbase.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIItemListBaseProperties.h"
+	"elements/CEGUIItemEntry.h"
+	<vector>
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiitemlistbaseproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimenubase.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIMenuBaseProperties.h"
+	"elements/CEGUIItemListBase.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimenubaseproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimenubar.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIMenuBase.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguipopupmenu.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIPopupMenuProperties.h"
+	"elements/CEGUIMenuBase.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguipopupmenuproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrolleditemlistbase.h
+	"elements/CEGUIItemListBase.h"
+	"elements/CEGUIScrollbar.h"
+	"elements/CEGUIScrolledItemListBaseProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrolleditemlistbaseproperties.h
+	"CEGUIProperty.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiitemlistbox.h
+	"elements/CEGUIScrolledItemListBase.h"
+	"elements/CEGUIItemListboxProperties.h"
+
+1156778892 j:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiitemlistboxproperties.h
+	"CEGUIProperty.h"
+
+1239133834 j:\course work\2d framework  projects\source\polygon triangulator\include\\algorithmrunner.h
+	<vector>
+	<string>
+	<list>
+	<hgevector.h>
+	"CyclicVector.h"
+
+1239822312 source:j:\course work\2d framework  projects\source\polygon triangulator\source\algorithmrunner.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+	<Utils.h>
+	"TriangleShape.h"
+	"PointShape.h"
+	"AlgorithmRunner.h"
+
+1239760288 j:\course work\2d framework  projects\source\framework\source\include\textrenderable.h
+	<hgecolor.h>
+	"dll.h"
+	"Renderable.h"
+
+1239760284 j:\course work\2d framework  projects\source\framework\source\include\scriptmanager.h
+	<string>
+	"dll.h"
+
+1238857478 source:g:\course work\2d framework  projects\source\polygon triangulator\source\algorithmstate.cpp
+	<ScriptManager.h>
+	<GuiManager.h>
+	<SystemManager.h>
+	<InputManager.h>
+	<CEGUI.h>
+	<CEGUIEventArgs.h>
+	<hgevector.h>
+	<Utils.h>
+	"AlgorithmRunner.h"
+	"PointShape.h"
+	"TriangleShape.h"
+	"CyclicVector.h"
+	"AlgorithmState.h"
+
+1234474738 g:\course work\2d framework  projects\source\framework\source\include\scriptmanager.h
+	<string>
+	"dll.h"
+
+1236278938 g:\course work\2d framework  projects\source\framework\source\include\dll.h
+
+1235074070 g:\course work\2d framework  projects\source\framework\source\include\guimanager.h
+	<string>
+	<list>
+	"dll.h"
+
+1236285424 g:\course work\2d framework  projects\source\framework\source\include\systemmanager.h
+	<string>
+	<map>
+	<hge.h>
+	"dll.h"
+
+1234981218 g:\course work\2d framework  projects\source\framework\dependencies\hge\include\hge.h
+	<windows.h>
+
+1234835202 g:\course work\2d framework  projects\source\framework\source\include\inputmanager.h
+	<hgevector.h>
+	"dll.h"
+
+1234912778 g:\course work\2d framework  projects\source\framework\dependencies\hge\include\hgevector.h
+	"hge.h"
+	<math.h>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\cegui.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIRect.h"
+	"CEGUIExceptions.h"
+	"CEGUITexture.h"
+	"CEGUIRenderer.h"
+	"CEGUIImageset.h"
+	"CEGUIImagesetManager.h"
+	"CEGUILogger.h"
+	"CEGUIMouseCursor.h"
+	"CEGUIFont.h"
+	"CEGUIFontManager.h"
+	"CEGUIEventArgs.h"
+	"CEGUIEvent.h"
+	"CEGUIEventSet.h"
+	"CEGUIGlobalEventSet.h"
+	"CEGUIProperty.h"
+	"CEGUIPropertySet.h"
+	"CEGUIWindow.h"
+	"CEGUIWindowFactory.h"
+	"CEGUIWindowFactoryManager.h"
+	"CEGUIWindowManager.h"
+	"CEGUIWindowRenderer.h"
+	"CEGUIWindowRendererManager.h"
+	"CEGUIScheme.h"
+	"CEGUISchemeManager.h"
+	"CEGUISystem.h"
+	"CEGUIScriptModule.h"
+	"CEGUICoordConverter.h"
+	"CEGUIPropertyHelper.h"
+	"falagard/CEGUIFalWidgetLookManager.h"
+	"elements/CEGUIButtonBase.h"
+	"elements/CEGUIPushButton.h"
+	"elements/CEGUICheckbox.h"
+	"elements/CEGUIRadioButton.h"
+	"elements/CEGUITitlebar.h"
+	"elements/CEGUIFrameWindow.h"
+	"elements/CEGUIProgressBar.h"
+	"elements/CEGUIEditbox.h"
+	"elements/CEGUIThumb.h"
+	"elements/CEGUISlider.h"
+	"elements/CEGUIScrollbar.h"
+	"elements/CEGUIListbox.h"
+	"elements/CEGUICombobox.h"
+	"elements/CEGUIListHeader.h"
+	"elements/CEGUIMultiColumnList.h"
+	"elements/CEGUIGUISheet.h"
+	"elements/CEGUIListboxTextItem.h"
+	"elements/CEGUIComboDropList.h"
+	"elements/CEGUIMultiLineEditbox.h"
+	"elements/CEGUITabButton.h"
+	"elements/CEGUITabControl.h"
+	"elements/CEGUISpinner.h"
+	"elements/CEGUIDragContainer.h"
+	"elements/CEGUIScrolledContainer.h"
+	"elements/CEGUIScrollablePane.h"
+	"elements/CEGUITooltip.h"
+	"elements/CEGUIItemEntry.h"
+	"elements/CEGUIMenuItem.h"
+	"elements/CEGUIItemListBase.h"
+	"elements/CEGUIMenuBase.h"
+	"elements/CEGUIMenubar.h"
+	"elements/CEGUIPopupMenu.h"
+	"elements/CEGUIScrolledItemListBase.h"
+	"elements/CEGUIItemListbox.h"
+
+1172148794 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguibase.h
+	<cassert>
+	"CEGUIConfig.h"
+	"CEGUIVersion.h"
+	<string>
+	"CEGUIForwardRefs.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiconfig.h
+
+1164374188 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiversion.h
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiforwardrefs.h
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguistring.h
+	"CEGUIBase.h"
+	<string>
+	<string.h>
+	<stdexcept>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguirect.h
+	"CEGUIBase.h"
+	"CEGUIVector.h"
+	"CEGUISize.h"
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguivector.h
+	"CEGUIBase.h"
+	"CEGUISize.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguisize.h
+	"CEGUIBase.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiexceptions.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguitexture.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguirenderer.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIRect.h"
+	"CEGUIColourRect.h"
+	"CEGUIEventSet.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguicolourrect.h
+	"CEGUIBase.h"
+	"CEGUIcolour.h"
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguicolour.h
+	"CEGUIBase.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguieventset.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIEvent.h"
+	"CEGUIIteratorBase.h"
+	<map>
+
+1156939390 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguievent.h
+	"CEGUIString.h"
+	"CEGUIBoundSlot.h"
+	"CEGUISubscriberSlot.h"
+	"CEGUIRefCounted.h"
+	<map>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiboundslot.h
+	"CEGUIBase.h"
+	"CEGUISubscriberSlot.h"
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguisubscriberslot.h
+	"CEGUIBase.h"
+	"CEGUIFreeFunctionSlot.h"
+	"CEGUIFunctorCopySlot.h"
+	"CEGUIFunctorReferenceSlot.h"
+	"CEGUIFunctorPointerSlot.h"
+	"CEGUIMemberFunctionSlot.h"
+	"CEGUIFunctorReferenceBinder.h"
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifreefunctionslot.h
+	"CEGUISlotFunctorBase.h"
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguislotfunctorbase.h
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifunctorcopyslot.h
+	"CEGUISlotFunctorBase.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifunctorreferenceslot.h
+	"CEGUISlotFunctorBase.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifunctorpointerslot.h
+	"CEGUISlotFunctorBase.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguimemberfunctionslot.h
+	"CEGUISlotFunctorBase.h"
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifunctorreferencebinder.h
+
+1156939390 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguirefcounted.h
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiiteratorbase.h
+	"CEGUIBase.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiimageset.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIRect.h"
+	"CEGUIColourRect.h"
+	"CEGUIImagesetManager.h"
+	"CEGUIImage.h"
+	"CEGUIIteratorBase.h"
+	"CEGUIXMLSerializer.h"
+	<map>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiimagesetmanager.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUIIteratorBase.h"
+	<map>
+
+1162050960 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguisingleton.h
+	"CEGUIBase.h"
+	<cassert>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiimage.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIRect.h"
+	"CEGUIColourRect.h"
+	"CEGUIVector.h"
+	"CEGUISize.h"
+	"CEGUIRenderer.h"
+	"CEGUIXMLSerializer.h"
+	<map>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguixmlserializer.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	<vector>
+	<iostream>
+	<CEGUI/XMLSerializer.h>
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguilogger.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	<fstream>
+	<sstream>
+	<vector>
+	<utility>
+	"CEGUISingleton.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguimousecursor.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUIVector.h"
+	"CEGUIRect.h"
+	"CEGUIEventSet.h"
+	"CEGUIInputEvent.h"
+	"CEGUIUDim.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiinputevent.h
+	"CEGUIBase.h"
+	"CEGUIEventArgs.h"
+	"CEGUIString.h"
+	"CEGUIVector.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguieventargs.h
+	"CEGUIBase.h"
+
+1161583570 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiudim.h
+	"CEGUIRect.h"
+	"CEGUIVector.h"
+
+1162050960 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifont.h
+	"CEGUIBase.h"
+	"CEGUIPropertySet.h"
+	"CEGUIString.h"
+	"CEGUIRect.h"
+	"CEGUIVector.h"
+	"CEGUIColourRect.h"
+	"CEGUIXMLSerializer.h"
+	"CEGUIImage.h"
+	<map>
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguipropertyset.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIIteratorBase.h"
+	"CEGUIProperty.h"
+	<map>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiproperty.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIXMLSerializer.h"
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguifontmanager.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUIIteratorBase.h"
+	<map>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiglobaleventset.h
+	"CEGUIEventSet.h"
+	"CEGUISingleton.h"
+
+1164374188 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindow.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIVector.h"
+	"CEGUIRect.h"
+	"CEGUISize.h"
+	"CEGUIEventSet.h"
+	"CEGUIPropertySet.h"
+	"CEGUISystem.h"
+	"CEGUIInputEvent.h"
+	"CEGUIWindowProperties.h"
+	"CEGUIUDim.h"
+	"CEGUIRenderCache.h"
+	"CEGUIWindowRenderer.h"
+	<vector>
+	<set>
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguisystem.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUIRenderer.h"
+	"CEGUIMouseCursor.h"
+	"CEGUIInputEvent.h"
+	"CEGUIResourceProvider.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiresourceprovider.h
+	"CEGUIBase.h"
+	"CEGUIDataContainer.h"
+	"CEGUIString.h"
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguidatacontainer.h
+	"CEGUIBase.h"
+
+1164374188 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindowproperties.h
+	"CEGUIProperty.h"
+	"CEGUIXMLSerializer.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguirendercache.h
+	"CEGUIVector.h"
+	"CEGUIRect.h"
+	"CEGUIImage.h"
+	"CEGUIFont.h"
+	<vector>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindowrenderer.h
+	"CEGUIWindow.h"
+	"CEGUIProperty.h"
+	<vector>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindowfactory.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIWindow.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindowfactorymanager.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUILogger.h"
+	"CEGUIIteratorBase.h"
+	<map>
+	<vector>
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindowmanager.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUILogger.h"
+	"CEGUIIteratorBase.h"
+	<map>
+	<vector>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiwindowrenderermanager.h
+	"CEGUIWindowRenderer.h"
+	"CEGUISingleton.h"
+	<map>
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguischeme.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISchemeManager.h"
+	<vector>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguischememanager.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUISingleton.h"
+	"CEGUIIteratorBase.h"
+	<map>
+
+1156778898 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguiscriptmodule.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIEvent.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguicoordconverter.h
+	"CEGUIUDim.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\ceguipropertyhelper.h
+	"CEGUIWindow.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalwidgetlookmanager.h
+	"CEGUISingleton.h"
+	"CEGUIString.h"
+	"CEGUIExceptions.h"
+	"falagard/CEGUIFalWidgetLookFeel.h"
+	<map>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalwidgetlookfeel.h
+	"falagard/CEGUIFalStateImagery.h"
+	"falagard/CEGUIFalWidgetComponent.h"
+	"falagard/CEGUIFalImagerySection.h"
+	"falagard/CEGUIFalPropertyInitialiser.h"
+	"falagard/CEGUIFalPropertyDefinition.h"
+	"falagard/CEGUIFalPropertyLinkDefinition.h"
+	"falagard/CEGUIFalNamedArea.h"
+	<map>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalstateimagery.h
+	"falagard/CEGUIFalLayerSpecification.h"
+	"CEGUIWindow.h"
+	<set>
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifallayerspecification.h
+	"falagard/CEGUIFalSectionSpecification.h"
+	"CEGUIWindow.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalsectionspecification.h
+	"CEGUIWindow.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalwidgetcomponent.h
+	"falagard/CEGUIFalDimensions.h"
+	"falagard/CEGUIFalPropertyInitialiser.h"
+	"CEGUIWindow.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifaldimensions.h
+	"falagard/CEGUIFalEnums.h"
+	"CEGUIString.h"
+	"CEGUIUDim.h"
+	"CEGUIXMLSerializer.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalenums.h
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalpropertyinitialiser.h
+	"CEGUIPropertySet.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalimagerysection.h
+	"falagard/CEGUIFalImageryComponent.h"
+	"falagard/CEGUIFalTextComponent.h"
+	"falagard/CEGUIFalFrameComponent.h"
+	"CEGUIXMLSerializer.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalimagerycomponent.h
+	"falagard/CEGUIFalComponentBase.h"
+	"CEGUIXMLSerializer.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalcomponentbase.h
+	"falagard/CEGUIFalDimensions.h"
+	"CEGUIWindow.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifaltextcomponent.h
+	"falagard/CEGUIFalComponentBase.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalframecomponent.h
+	"falagard/CEGUIFalComponentBase.h"
+	"CEGUIXMLSerializer.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalpropertydefinition.h
+	"CEGUIFalPropertyDefinitionBase.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalpropertydefinitionbase.h
+	"CEGUIProperty.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalpropertylinkdefinition.h
+	"falagard/CEGUIFalPropertyDefinitionBase.h"
+
+1156778896 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\falagard\ceguifalnamedarea.h
+	"falagard/CEGUIFalDimensions.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguibuttonbase.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguipushbutton.h
+	"CEGUIBase.h"
+	"elements/CEGUIButtonBase.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguicheckbox.h
+	"CEGUIBase.h"
+	"elements/CEGUIButtonBase.h"
+	"elements/CEGUICheckboxProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguicheckboxproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiradiobutton.h
+	"CEGUIBase.h"
+	"elements/CEGUIButtonBase.h"
+	"elements/CEGUIRadioButtonProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiradiobuttonproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguititlebar.h
+	"CEGUIWindow.h"
+	"elements/CEGUITitlebarProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguititlebarproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiframewindow.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIFrameWindowProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiframewindowproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiprogressbar.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIProgressBarProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiprogressbarproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguieditbox.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIEditboxProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguieditboxproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguithumb.h
+	"CEGUIPushButton.h"
+	"elements/CEGUIThumbProperties.h"
+	<utility>
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguithumbproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguislider.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUISliderProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguisliderproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrollbar.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIScrollbarProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrollbarproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistbox.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIListboxProperties.h"
+	<vector>
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistboxproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguicombobox.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIComboboxProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguicomboboxproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistheader.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIListHeaderSegment.h"
+	"elements/CEGUIListHeaderProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistheadersegment.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIListHeaderSegmentProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistheadersegmentproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistheaderproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimulticolumnlist.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"CEGUIListHeader.h"
+	"elements/CEGUIMultiColumnListProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimulticolumnlistproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiguisheet.h
+	"CEGUIWindow.h"
+	"CEGUIWindowFactory.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistboxtextitem.h
+	"elements/CEGUIListboxItem.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguilistboxitem.h
+	"CEGUIBase.h"
+	"CEGUIString.h"
+	"CEGUIColourRect.h"
+	"CEGUIRenderCache.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguicombodroplist.h
+	"elements/CEGUIListbox.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimultilineeditbox.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"CEGUIFont.h"
+	"elements/CEGUIMultiLineEditboxProperties.h"
+	<vector>
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimultilineeditboxproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguitabbutton.h
+	"CEGUIBase.h"
+	"elements/CEGUIButtonBase.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguitabcontrol.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUITabControlProperties.h"
+	<vector>
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguitabcontrolproperties.h
+	"CEGUIProperty.h"
+
+1162821662 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguispinner.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUISpinnerProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguispinnerproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguidragcontainer.h
+	"CEGUIWindow.h"
+	"CEGUIWindowFactory.h"
+	"elements/CEGUIDragContainerProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguidragcontainerproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrolledcontainer.h
+	"CEGUIWindow.h"
+	"CEGUIWindowFactory.h"
+	"elements/CEGUIScrolledContainerProperties.h"
+	<map>
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrolledcontainerproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrollablepane.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIScrollablePaneProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrollablepaneproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguitooltip.h
+	"CEGUIWindow.h"
+	"elements/CEGUITooltipProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguitooltipproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiitementry.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIItemEntryProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiitementryproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimenuitem.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIItemEntry.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiitemlistbase.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIItemListBaseProperties.h"
+	"elements/CEGUIItemEntry.h"
+	<vector>
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiitemlistbaseproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimenubase.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIMenuBaseProperties.h"
+	"elements/CEGUIItemListBase.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimenubaseproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguimenubar.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIMenuBase.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguipopupmenu.h
+	"CEGUIBase.h"
+	"CEGUIWindow.h"
+	"elements/CEGUIPopupMenuProperties.h"
+	"elements/CEGUIMenuBase.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguipopupmenuproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrolleditemlistbase.h
+	"elements/CEGUIItemListBase.h"
+	"elements/CEGUIScrollbar.h"
+	"elements/CEGUIScrolledItemListBaseProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiscrolleditemlistbaseproperties.h
+	"CEGUIProperty.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiitemlistbox.h
+	"elements/CEGUIScrolledItemListBase.h"
+	"elements/CEGUIItemListboxProperties.h"
+
+1156778892 g:\course work\2d framework  projects\source\framework\dependencies\cegui\include\elements\ceguiitemlistboxproperties.h
+	"CEGUIProperty.h"
+
+1237485534 g:\course work\2d framework  projects\source\framework\source\include\utils.h
+	<map>
+	<string>
+	<fstream>
+	<hgevector.h>
+	"dll.h"
+
+1239128304 g:\course work\2d framework  projects\source\polygon triangulator\include\\algorithmrunner.h
+	<vector>
+	<string>
+	<list>
+	<hgevector.h>
+	"CyclicVector.h"
+
+1238857714 g:\course work\2d framework  projects\source\polygon triangulator\include\\pointshape.h
+	<string>
+	<hgevector.h>
+	"CyclicVector.h"
+
+1238858844 g:\course work\2d framework  projects\source\polygon triangulator\include\\cyclicvector.h
+	<vector.h>
+
+1238857494 g:\course work\2d framework  projects\source\polygon triangulator\include\\triangleshape.h
+	<string>
+	<hgevector.h>
+
+1238857366 g:\course work\2d framework  projects\source\polygon triangulator\include\\algorithmstate.h
+	<SystemState.h>
+
+1234842242 g:\course work\2d framework  projects\source\framework\source\include\systemstate.h
+	"UpdateListener.h"
+	<string>
+	"dll.h"
+
+1234278650 g:\course work\2d framework  projects\source\framework\source\include\updatelistener.h
+	<list>
+	"dll.h"
+
+1239069882 source:g:\course work\2d framework  projects\source\polygon triangulator\source\pointshape.cpp
+	<hgecolor.h>
+	<SceneManager.h>
+	<LineRenderable.h>
+	<TextRenderable.h>
+	<SceneNode.h>
+	<Utils.h>
+	"PointShape.h"
+
+1234912778 g:\course work\2d framework  projects\source\framework\dependencies\hge\include\hgecolor.h
+	"hge.h"
+
+1236450822 g:\course work\2d framework  projects\source\framework\source\include\scenemanager.h
+	<map>
+	<list>
+	<string>
+	<hgevector.h>
+	"dll.h"
+	"RenderOriginator.h"
+	"UpdateOriginator.h"
+
+1235081670 g:\course work\2d framework  projects\source\framework\source\include\renderoriginator.h
+	<list>
+	"dll.h"
+
+1234278652 g:\course work\2d framework  projects\source\framework\source\include\updateoriginator.h
+	<list>
+	"dll.h"
+
+1236346276 g:\course work\2d framework  projects\source\framework\source\include\linerenderable.h
+	<vector>
+	<string>
+	<hgevector.h>
+	<hgecolor.h>
+	"Renderable.h"
+	"dll.h"
+
+1235692880 g:\course work\2d framework  projects\source\framework\source\include\renderable.h
+	<string>
+	<hgevector.h>
+	"dll.h"
+	"Component.h"
+	"RenderableListener.h"
+	"BindableManaged.h"
+
+1235691704 g:\course work\2d framework  projects\source\framework\source\include\component.h
+	<string>
+	<list>
+	"dll.h"
+	"BindableManaged.h"
+
+1234278640 g:\course work\2d framework  projects\source\framework\source\include\bindablemanaged.h
+	"dll.h"
+
+1235691692 g:\course work\2d framework  projects\source\framework\source\include\renderablelistener.h
+	<list>
+	"dll.h"
+
+1236287064 g:\course work\2d framework  projects\source\framework\source\include\textrenderable.h
+	<hgecolor.h>
+	"dll.h"
+	"Renderable.h"
+
+1238276846 g:\course work\2d framework  projects\source\framework\source\include\scenenode.h
+	<string>
+	<map>
+	<hgevector.h>
+	<hgecolor.h>
+	"dll.h"
+	"BindableManaged.h"
+
+1238859124 source:g:\course work\2d framework  projects\source\polygon triangulator\source\triangleshape.cpp
+	<hgecolor.h>
+	<SceneManager.h>
+	<TriangleRenderable.h>
+	<Utils.h>
+	<SceneNode.h>
+	"TriangleShape.h"
+
+1236346276 g:\course work\2d framework  projects\source\framework\source\include\trianglerenderable.h
+	<vector>
+	<hgecolor.h>
+	"dll.h"
+	"Renderable.h"
+
+1238102038 source:g:\course work\2d framework  projects\source\polygon triangulator\source\main.cpp
+	<iostream>
+	<SystemManager.h>
+	"AlgorithmState.h"
+
+1239130104 source:g:\course work\2d framework  projects\source\polygon triangulator\source\algorithmrunner.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+	<Utils.h>
+	"TriangleShape.h"
+	"PointShape.h"
+	"AlgorithmRunner.h"
+
+1239137158 j:\course work\2d framework  projects\source\polygon triangulator\include\\cyclicvector.h
+	<vector.h>
+

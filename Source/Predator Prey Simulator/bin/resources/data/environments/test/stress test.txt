@@ -1,0 +1,8 @@
+void main()
+{
+	for (int i = 0; i < 100; ++i)
+	{
+		createPredator("Test", Vector2(utils.getRandomInt(-3000, 3000), utils.getRandomInt(-6000, 6000)));
+		createPrey("Test", Vector2(utils.getRandomInt(-3000, 3000), utils.getRandomInt(-6000, 6000)));
+	}
+}

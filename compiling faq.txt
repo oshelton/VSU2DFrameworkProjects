@@ -1,0 +1,54 @@
+Jack Owen Shelton
+joshelton@yahoo.com
+Spring 2009
+
+This file contains instructions on building the Framework and the related projects for my CS 3520 and CS 4322 assignments.
+
+How to compile:
+1) Download and install GCC's MingW C++ compiler from http://sourceforge.net/project/showfiles.php?group_id=2435&package_id=240780&release_id=595197.  
+
+The only package that needs to be installed is the C++ compiler, the other compilers are unnecesarry.
+
+MingW is required as the dependencies have been compiled with it and C++ Croos-Compiler support for dlls is not possible at this time.  I also use a slightly modified version of Haaf's Game Engine so building HGE from source would not work correctly in this case.  The modified sources include work from another to add support for DirectX 9 and I made some changes to the resource management code.  The modified sources are not distributed with the dependencies to save space, but they can be supplied at request. 
+
+2) Download and install the CodeBlocks IDE.  The build I use can be found at http://prdownload.berlios.de/codeblocks/CB_20090328_rev5489_win32.7z.  Once the application has been extracted it should automatically detect GCC when started.  If not the path to the GCC binaries, which should be C:\mingw\bin can be set in the settings->Compiler & Debugger menu option and the auto-detect button can be used to search for the binaries.
+
+This step is not needed but I provide a CodeBlocks workspace that already has the projects and directory structure set up properly already.
+
+3) Double click on the Workspace file which should start CodeBlocks and load up all the projects.  In order to build the projects simply click on Build->Build Workspace on the CodeBlocks menu.  This should build the selected target.
+
+4) To save space all DLL's have been removed from the Release and Debug directories of the Test, Predator Prey Simulator, and Polygon Triangulator projects.  In order to actually run the applications dlls must be moved from the respective folders in the dependencies directories and from the Framework's bin folder.  Debug DLL's are marked with a _d at the end of the file name.
+
+Directory Structure:
+
+Workspace.Workspace 				<--In main directory.
+
+Source/Framework/				<--Framework Sources and dependencies.
+	         Include/			<--Framework headers.
+		 Source/			<--Framework Source Files.
+		 Bin/				<--Framework Binary folder, contains folders for both Debug and Release Targets.  Will need to be copied.
+		
+		 Dependencies/			<--Dependencies folder.
+		 	AngelScript/		<--AngelScript dependencies.
+				Include/	<--AngelScript header.
+				Bin/		<--AngelScript Binaries folder (Release and Debug), static library so nothing needs to be moved.
+			CEGUI/			<--CEGUI Dependencies.
+				Include/	<--CEGUI headers.
+				Bin/		<--CEGUI DLLs, Debug and Release subfolders.  These will need to be copied.
+			HGE/			<--HGE dependencies.
+				Include/	<--HGE headers.
+				Bin/		<--HGE DLLs, Debug and Release subfolders.  These will need to be copied.
+
+Source/Polygon Triangulator
+		Include/			<--Polygon Triangulator headers.
+		Source/				<--Polygon Triangulator sources.
+		Bin/				<--Executable output directory, contains both Debug and Release targets.
+
+Source/Predator Prey Simulator
+		Include/			<--Predator Prey Simulator Headers, has subfolders for Environments, BehaviorFamilies, and Behaviors.
+		Source/				<--Predator Prey Simulator Sources, has subfolders for Environments, BehaviorFamilies, and Behaviors.
+		Bin/				<--Executable output directory, contains both Debug and Release targets.
+
+*Note: Environment simulations go in the Bin/resources/data/environments/%environment name%/ folder, where %environment name% is the name of the Environment the simulation will belong to.
+
+A full list of functions exposed in AngelScript is forthcoming.

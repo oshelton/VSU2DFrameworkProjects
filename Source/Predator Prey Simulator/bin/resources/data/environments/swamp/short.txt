@@ -1,0 +1,4 @@
+void main()
+{
+	createPredator("Bobcat", Vector2(0, 0));
+}

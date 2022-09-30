@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Include\AlgorithmRunner.h" open="0" top="0" tabpos="1">
+		<Cursor position="1646" topLine="33" />
+	</File>
+	<File name="Include\AlgorithmState.h" open="0" top="0" tabpos="2">
+		<Cursor position="1264" topLine="15" />
+	</File>
+	<File name="Include\CyclicVector.h" open="0" top="0" tabpos="2">
+		<Cursor position="4286" topLine="161" />
+	</File>
+	<File name="Include\PointShape.h" open="0" top="0" tabpos="3">
+		<Cursor position="1115" topLine="28" />
+	</File>
+	<File name="Include\TriangleShape.h" open="0" top="0" tabpos="4">
+		<Cursor position="232" topLine="9" />
+	</File>
+	<File name="Source\AlgorithmRunner.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="1212" topLine="20" />
+	</File>
+	<File name="Source\AlgorithmState.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="2526" topLine="94" />
+	</File>
+	<File name="Source\PointShape.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="2290" topLine="32" />
+	</File>
+	<File name="Source\TriangleShape.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="1951" topLine="20" />
+	</File>
+	<File name="Source\main.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="108" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

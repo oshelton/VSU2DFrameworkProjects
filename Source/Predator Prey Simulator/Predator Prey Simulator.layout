@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Include\Animal.h" open="0" top="0" tabpos="2">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Include\BehaviorFamilies\AggressivePredatorFamily.h" open="0" top="0" tabpos="1">
+		<Cursor position="329" topLine="0" />
+	</File>
+	<File name="Include\BehaviorFamilies\AlertPreyFamily.h" open="0" top="0" tabpos="0">
+		<Cursor position="182" topLine="0" />
+	</File>
+	<File name="Include\BehaviorFamilies\AmbushPredatorFamily.h" open="0" top="0" tabpos="2">
+		<Cursor position="231" topLine="0" />
+	</File>
+	<File name="Include\BehaviorFamilies\CarefulPreyFamily.h" open="0" top="0" tabpos="0">
+		<Cursor position="332" topLine="0" />
+	</File>
+	<File name="Include\BehaviorFamilies\DefensivePreyFamily.h" open="0" top="0" tabpos="0">
+		<Cursor position="691" topLine="0" />
+	</File>
+	<File name="Include\BehaviorFamilies\FelinePredatorFamily.h" open="0" top="0" tabpos="3">
+		<Cursor position="227" topLine="0" />
+	</File>
+	<File name="Include\BehaviorFamilies\GenericPredatorBehaviorFamily.h" open="0" top="0" tabpos="2">
+		<Cursor position="695" topLine="0" />
+	</File>
+	<File name="Include\BehaviorFamilies\GenericPreyBehaviorFamily.h" open="0" top="0" tabpos="3">
+		<Cursor position="720" topLine="0" />
+	</File>
+	<File name="Include\BehaviorStates.h" open="0" top="0" tabpos="3">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Include\Behaviors\AggressivePredator.h" open="0" top="0" tabpos="0">
+		<Cursor position="447" topLine="0" />
+	</File>
+	<File name="Include\Behaviors\AlertPrey.h" open="0" top="0" tabpos="1">
+		<Cursor position="473" topLine="0" />
+	</File>
+	<File name="Include\Behaviors\AmbushPredator.h" open="0" top="0" tabpos="0">
+		<Cursor position="104" topLine="0" />
+	</File>
+	<File name="Include\Behaviors\CarefulPrey.h" open="0" top="0" tabpos="3">
+		<Cursor position="204" topLine="0" />
+	</File>
+	<File name="Include\Behaviors\DefensivePrey.h" open="0" top="0" tabpos="4">
+		<Cursor position="268" topLine="0" />
+	</File>
+	<File name="Include\Behaviors\FleeingPredator.h" open="0" top="0" tabpos="0">
+		<Cursor position="308" topLine="0" />
+	</File>
+	<File name="Include\Behaviors\GenericPredatorBehavior.h" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Include\Behaviors\GenericPreyBehavior.h" open="0" top="0" tabpos="2">
+		<Cursor position="190" topLine="0" />
+	</File>
+	<File name="Include\Behaviors\HungerFactoredPredator.h" open="0" top="0" tabpos="0">
+		<Cursor position="332" topLine="0" />
+	</File>
+	<File name="Include\Behaviors\RandomFleePrey.h" open="0" top="0" tabpos="5">
+		<Cursor position="386" topLine="0" />
+	</File>
+	<File name="Include\Environment.h" open="0" top="0" tabpos="7">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Include\Environments\SwampEnvironment.h" open="0" top="0" tabpos="3">
+		<Cursor position="735" topLine="0" />
+	</File>
+	<File name="Include\Environments\TestEnvironment.h" open="0" top="0" tabpos="2">
+		<Cursor position="1577" topLine="0" />
+	</File>
+	<File name="Include\Predator.h" open="0" top="0" tabpos="4">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Include\PredatorBehavior.h" open="0" top="0" tabpos="1">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Include\PredatorBehaviorFamily.h" open="0" top="0" tabpos="0">
+		<Cursor position="215" topLine="0" />
+	</File>
+	<File name="Include\PredatorManager.h" open="0" top="0" tabpos="2">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Include\Prey.h" open="0" top="0" tabpos="4">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Include\PreyBehavior.h" open="0" top="0" tabpos="0">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Include\PreyBehaviorFamily.h" open="0" top="0" tabpos="0">
+		<Cursor position="563" topLine="0" />
+	</File>
+	<File name="Include\PreyManager.h" open="0" top="0" tabpos="0">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Include\ReportManager.h" open="0" top="0" tabpos="0">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Include\ReportSection.h" open="0" top="0" tabpos="5">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Include\SimulationBinder.h" open="0" top="0" tabpos="1">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Include\SimulationManager.h" open="0" top="0" tabpos="7">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Include\SimulationState.h" open="0" top="0" tabpos="1">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Source\Animal.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="2405" topLine="55" />
+	</File>
+	<File name="Source\BehaviorFamilies\AggressivePredatorFamily.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="162" topLine="0" />
+	</File>
+	<File name="Source\BehaviorFamilies\AlertPreyFamily.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="579" topLine="0" />
+	</File>
+	<File name="Source\BehaviorFamilies\AmbushPredatorFamily.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="279" topLine="0" />
+	</File>
+	<File name="Source\BehaviorFamilies\CarefulPreyFamily.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="509" topLine="0" />
+	</File>
+	<File name="Source\BehaviorFamilies\DefensivePreyFamily.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="224" topLine="0" />
+	</File>
+	<File name="Source\BehaviorFamilies\FelinePredatorFamily.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="285" topLine="0" />
+	</File>
+	<File name="Source\BehaviorFamilies\GenericPreyBehaviorFamily.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="267" topLine="0" />
+	</File>
+	<File name="Source\Behaviors\AggressivePredator.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="2404" topLine="39" />
+	</File>
+	<File name="Source\Behaviors\AlertPrey.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="1959" topLine="34" />
+	</File>
+	<File name="Source\Behaviors\AmbushPredator.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1894" topLine="28" />
+	</File>
+	<File name="Source\Behaviors\CarefulPrey.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="1963" topLine="23" />
+	</File>
+	<File name="Source\Behaviors\DefensivePrey.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="1967" topLine="26" />
+	</File>
+	<File name="Source\Behaviors\FleeingPredator.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="1058" topLine="13" />
+	</File>
+	<File name="Source\Behaviors\GenericPredatorBehavior.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="2424" topLine="40" />
+	</File>
+	<File name="Source\Behaviors\GenericPreyBehavior.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1575" topLine="22" />
+	</File>
+	<File name="Source\Behaviors\HungerFactoredPredator.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="2821" topLine="42" />
+	</File>
+	<File name="Source\Behaviors\RandomFleePrey.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="743" topLine="26" />
+	</File>
+	<File name="Source\Environment.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="42" topLine="2" />
+	</File>
+	<File name="Source\Environments\SwampEnvironment.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="3135" topLine="66" />
+	</File>
+	<File name="Source\Environments\TestEnvironment.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="847" topLine="17" />
+	</File>
+	<File name="Source\Predator.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="2730" topLine="12" />
+	</File>
+	<File name="Source\PredatorManager.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Source\Prey.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Source\PreyManager.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Source\ReportManager.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Source\SimulationBinder.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="Source\SimulationManager.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="1571" topLine="29" />
+	</File>
+	<File name="Source\SimulationState.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1807" topLine="17" />
+	</File>
+	<File name="Source\main.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="3258" topLine="2" />
+	</File>
+</CodeBlocks_layout_file>

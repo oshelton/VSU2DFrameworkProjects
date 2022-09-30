@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Framework" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Framework_d" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin\Debug" />
+				<Option object_output="obj\Debug" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-gstabs" />
+					<Add option="-DDEBUG" />
+				</Compiler>
+				<Linker>
+					<Add library="CEGUIBase_d" />
+					<Add library="CEGUIFalagardWRBase_d" />
+					<Add library="HGE_d" />
+					<Add library="hgehelp_d" />
+					<Add library="angelscript_d" />
+					<Add directory="..\Dependencies\CEGUI\Bin\Debug" />
+					<Add directory="..\Dependencies\HGE\Bin\Debug" />
+					<Add directory="..\Dependencies\AngelScript\Bin\Debug" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Framework" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin\Release" />
+				<Option object_output="obj\Release" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-Wextra" />
+					<Add option="-Wall" />
+					<Add option="-DNDEBUG" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="CEGUIBase" />
+					<Add library="CEGUIFalagardWRBase" />
+					<Add library="HGE" />
+					<Add library="hgehelp" />
+					<Add library="angelscript" />
+					<Add directory="..\Dependencies\CEGUI\Bin\Release" />
+					<Add directory="..\Dependencies\HGE\Bin\Release" />
+					<Add directory="..\Dependencies\AngelScript\Bin\Release" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Os" />
+			<Add option="-DBUILD_DLL" />
+			<Add directory="Include" />
+			<Add directory="..\Dependencies\AngelScript\Include" />
+			<Add directory="..\Dependencies\CEGUI\Include" />
+			<Add directory="..\Dependencies\HGE\Include" />
+		</Compiler>
+		<Unit filename="Include\Bindable.h" />
+		<Unit filename="Include\BindableManaged.h" />
+		<Unit filename="Include\Camera.h" />
+		<Unit filename="Include\Component.h" />
+		<Unit filename="Include\ComponentCreator.h" />
+		<Unit filename="Include\CompoundRenderable.h" />
+		<Unit filename="Include\CompoundRenderableCreator.h" />
+		<Unit filename="Include\GuiManager.h" />
+		<Unit filename="Include\HgeRenderer.h" />
+		<Unit filename="Include\HgeTexture.h" />
+		<Unit filename="Include\InputManager.h" />
+		<Unit filename="Include\LineRenderable.h" />
+		<Unit filename="Include\LineRenderableCreator.h" />
+		<Unit filename="Include\RenderOriginator.h" />
+		<Unit filename="Include\RenderTexture.h" />
+		<Unit filename="Include\RenderTextureManager.h" />
+		<Unit filename="Include\Renderable.h" />
+		<Unit filename="Include\RenderableListener.h" />
+		<Unit filename="Include\SceneManager.h" />
+		<Unit filename="Include\SceneNode.h" />
+		<Unit filename="Include\ScriptBinder.h" />
+		<Unit filename="Include\ScriptManager.h" />
+		<Unit filename="Include\SimpleRenderable.h" />
+		<Unit filename="Include\SimpleRenderableCreator.h" />
+		<Unit filename="Include\SystemManager.h" />
+		<Unit filename="Include\SystemState.h" />
+		<Unit filename="Include\TextRenderable.h" />
+		<Unit filename="Include\TextRenderableCreator.h" />
+		<Unit filename="Include\Timer.h" />
+		<Unit filename="Include\TimerManager.h" />
+		<Unit filename="Include\TriangleRenderable.h" />
+		<Unit filename="Include\TriangleRenderableCreator.h" />
+		<Unit filename="Include\UpdateListener.h" />
+		<Unit filename="Include\UpdateOriginator.h" />
+		<Unit filename="Include\UtilBinder.h" />
+		<Unit filename="Include\Utils.h" />
+		<Unit filename="Include\dll.h" />
+		<Unit filename="Include\scriptstring.h" />
+		<Unit filename="Source\Camera.cpp" />
+		<Unit filename="Source\Component.cpp" />
+		<Unit filename="Source\CompoundRenderable.cpp" />
+		<Unit filename="Source\CompoundRenderableCreator.cpp" />
+		<Unit filename="Source\GuiManager.cpp" />
+		<Unit filename="Source\HgeRenderer.cpp" />
+		<Unit filename="Source\HgeTexture.cpp" />
+		<Unit filename="Source\InputManager.cpp" />
+		<Unit filename="Source\LineRenderable.cpp" />
+		<Unit filename="Source\LineRenderableCreator.cpp" />
+		<Unit filename="Source\RenderOriginator.cpp" />
+		<Unit filename="Source\RenderTexture.cpp" />
+		<Unit filename="Source\RenderTextureManager.cpp" />
+		<Unit filename="Source\Renderable.cpp" />
+		<Unit filename="Source\RenderableListener.cpp" />
+		<Unit filename="Source\SceneManager.cpp" />
+		<Unit filename="Source\SceneNode.cpp" />
+		<Unit filename="Source\ScriptManager.cpp" />
+		<Unit filename="Source\SimpleRenderable.cpp" />
+		<Unit filename="Source\SimpleRenderableCreator.cpp" />
+		<Unit filename="Source\SystemManager.cpp" />
+		<Unit filename="Source\TextRenderable.cpp" />
+		<Unit filename="Source\TextRenderableCreator.cpp" />
+		<Unit filename="Source\Timer.cpp" />
+		<Unit filename="Source\TimerManager.cpp" />
+		<Unit filename="Source\TriangleRenderable.cpp" />
+		<Unit filename="Source\TriangleRenderableCreator.cpp" />
+		<Unit filename="Source\UpdateListener.cpp" />
+		<Unit filename="Source\UpdateOriginator.cpp" />
+		<Unit filename="Source\UtilBinder.cpp" />
+		<Unit filename="Source\Utils.cpp" />
+		<Unit filename="Source\scriptstring.cpp" />
+		<Unit filename="Source\scriptstring_utils.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger>
+				<search_path add="Debug" />
+			</debugger>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

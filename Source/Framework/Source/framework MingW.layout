@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Include\Bindable.h" open="0" top="0" tabpos="2">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\BindableManaged.h" open="0" top="0" tabpos="3">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\Camera.h" open="0" top="0" tabpos="4">
+		<Cursor position="3" topLine="0" />
+	</File>
+	<File name="Include\Component.h" open="0" top="0" tabpos="5">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\ComponentCreator.h" open="0" top="0" tabpos="6">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\CompoundRenderable.h" open="0" top="0" tabpos="7">
+		<Cursor position="3133" topLine="56" />
+	</File>
+	<File name="Include\CompoundRenderableCreator.h" open="0" top="0" tabpos="0">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\GuiManager.h" open="0" top="0" tabpos="8">
+		<Cursor position="6237" topLine="148" />
+	</File>
+	<File name="Include\HgeRenderer.h" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Include\HgeTexture.h" open="0" top="0" tabpos="0">
+		<Cursor position="180" topLine="0" />
+	</File>
+	<File name="Include\InputManager.h" open="0" top="0" tabpos="9">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\LineRenderable.h" open="0" top="0" tabpos="10">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\LineRenderableCreator.h" open="0" top="0" tabpos="0">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\RenderOriginator.h" open="0" top="0" tabpos="11">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\RenderTexture.h" open="0" top="0" tabpos="12">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\RenderTextureManager.h" open="0" top="0" tabpos="13">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\Renderable.h" open="0" top="0" tabpos="14">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\RenderableListener.h" open="0" top="0" tabpos="15">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\SceneManager.h" open="0" top="0" tabpos="2">
+		<Cursor position="6807" topLine="0" />
+	</File>
+	<File name="Include\SceneNode.h" open="0" top="0" tabpos="17">
+		<Cursor position="2142" topLine="52" />
+	</File>
+	<File name="Include\ScriptBinder.h" open="0" top="0" tabpos="18">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\ScriptManager.h" open="0" top="0" tabpos="19">
+		<Cursor position="1508" topLine="26" />
+	</File>
+	<File name="Include\SimpleRenderable.h" open="0" top="0" tabpos="20">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\SimpleRenderableCreator.h" open="0" top="0" tabpos="5">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\SystemManager.h" open="0" top="0" tabpos="1">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\SystemState.h" open="0" top="0" tabpos="22">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\TextRenderable.h" open="0" top="0" tabpos="23">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\TextRenderableCreator.h" open="0" top="0" tabpos="0">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\Timer.h" open="0" top="0" tabpos="0">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\TimerManager.h" open="0" top="0" tabpos="24">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\TriangleRenderable.h" open="0" top="0" tabpos="2">
+		<Cursor position="1137" topLine="18" />
+	</File>
+	<File name="Include\TriangleRenderableCreator.h" open="0" top="0" tabpos="0">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\UpdateListener.h" open="0" top="0" tabpos="3">
+		<Cursor position="2083" topLine="19" />
+	</File>
+	<File name="Include\UpdateOriginator.h" open="0" top="0" tabpos="27">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\UtilBinder.h" open="0" top="0" tabpos="29">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Include\Utils.h" open="0" top="0" tabpos="1">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Include\dll.h" open="1" top="0" tabpos="1">
+		<Cursor position="7977" topLine="83" />
+	</File>
+	<File name="Source\Camera.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="134" topLine="1" />
+	</File>
+	<File name="Source\Component.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\CompoundRenderable.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="481" topLine="6" />
+	</File>
+	<File name="Source\CompoundRenderableCreator.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="314" topLine="0" />
+	</File>
+	<File name="Source\GuiManager.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1252" topLine="19" />
+	</File>
+	<File name="Source\HgeRenderer.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="180" topLine="0" />
+	</File>
+	<File name="Source\HgeTexture.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="180" topLine="0" />
+	</File>
+	<File name="Source\InputManager.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\LineRenderable.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\LineRenderableCreator.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\RenderOriginator.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\RenderTexture.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\RenderTextureManager.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\Renderable.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\RenderableListener.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\SceneManager.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\SceneNode.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="337" topLine="225" />
+	</File>
+	<File name="Source\ScriptManager.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\SimpleRenderable.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\SimpleRenderableCreator.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\SystemManager.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="3872" topLine="0" />
+	</File>
+	<File name="Source\TextRenderable.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\TextRenderableCreator.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\Timer.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\TimerManager.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\TriangleRenderable.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\TriangleRenderableCreator.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\UpdateListener.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\UpdateOriginator.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="Source\UtilBinder.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="138" topLine="0" />
+	</File>
+	<File name="Source\Utils.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="801" topLine="0" />
+	</File>
+	<File name="Source\scriptstring.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="11015" topLine="425" />
+	</File>
+</CodeBlocks_layout_file>

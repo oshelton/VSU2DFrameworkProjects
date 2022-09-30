@@ -1,0 +1,10 @@
+void main()
+{
+	createPredator("Alligator", Vector2(-400, 0));
+	createPredator("Black Bear", Vector2(-400, 300));
+	createPredator("Bobcat", Vector2(-400, -300));
+ 
+	createPrey("Deer", Vector2(400, 0));
+	createPrey("Possum", Vector2(400, 300));
+	createPrey("Rabbit", Vector2(400, -300));
+}

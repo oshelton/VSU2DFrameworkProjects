@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Source\Framework\Source\framework MingW.cbp" />
+		<Project filename="Source\Test\Test.cbp" />
+		<Project filename="Source\Predator Prey Simulator\Predator Prey Simulator.cbp" active="1" />
+		<Project filename="Source\Polygon Triangulator\Polygon Triangulator.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

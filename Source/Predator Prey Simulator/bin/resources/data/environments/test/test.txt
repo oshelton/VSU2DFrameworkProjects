@@ -1,0 +1,5 @@
+void main()
+{
+	createPredator("Test", Vector2(-400, 0)); 
+	createPrey("Test", Vector2(600, 0));
+}

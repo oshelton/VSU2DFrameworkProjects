@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Predator Prey Simulator" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Predator Prey Simulator" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin\Debug\" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-gstabs" />
+					<Add option="-DDEBUG" />
+				</Compiler>
+				<Linker>
+					<Add library="CEGUIBase_d" />
+					<Add library="Framework_d" />
+					<Add library="hge_d" />
+					<Add library="hgehelp_d" />
+					<Add directory="..\Framework\Source\Bin\Debug" />
+					<Add directory="..\Framework\Dependencies\HGE\Bin\Debug" />
+					<Add directory="..\Framework\Dependencies\CEGUI\Bin\Debug" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Predator Prey Simulator" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin\Release\" />
+				<Option object_output="obj\Relase\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-march=pentium-m" />
+					<Add option="-O3" />
+					<Add option="-DNDEBUG" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="CEGUIBase" />
+					<Add library="Framework" />
+					<Add library="hge" />
+					<Add library="hgehelp" />
+					<Add directory="..\Framework\Source\Bin\Release" />
+					<Add directory="..\Framework\Dependencies\HGE\Bin\Release" />
+					<Add directory="..\Framework\Dependencies\CEGUI\Bin\Release" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="..\Framework\Dependencies\CEGUI\Include" />
+			<Add directory="..\Framework\Dependencies\HGE\Include" />
+			<Add directory="..\Framework\Source\Include" />
+			<Add directory="..\Framework\Dependencies\AngelScript\Include" />
+			<Add directory="Include" />
+		</Compiler>
+		<Unit filename="Include\Animal.h" />
+		<Unit filename="Include\BehaviorFamilies\AggressivePredatorFamily.h" />
+		<Unit filename="Include\BehaviorFamilies\AlertPreyFamily.h" />
+		<Unit filename="Include\BehaviorFamilies\AmbushPredatorFamily.h" />
+		<Unit filename="Include\BehaviorFamilies\CarefulPreyFamily.h" />
+		<Unit filename="Include\BehaviorFamilies\DefensivePreyFamily.h" />
+		<Unit filename="Include\BehaviorFamilies\FelinePredatorFamily.h" />
+		<Unit filename="Include\BehaviorFamilies\GenericPredatorBehaviorFamily.h" />
+		<Unit filename="Include\BehaviorFamilies\GenericPreyBehaviorFamily.h" />
+		<Unit filename="Include\BehaviorStates.h" />
+		<Unit filename="Include\Behaviors\AggressivePredator.h" />
+		<Unit filename="Include\Behaviors\AlertPrey.h" />
+		<Unit filename="Include\Behaviors\AmbushPredator.h" />
+		<Unit filename="Include\Behaviors\CarefulPrey.h" />
+		<Unit filename="Include\Behaviors\DefensivePrey.h" />
+		<Unit filename="Include\Behaviors\FleeingPredator.h" />
+		<Unit filename="Include\Behaviors\GenericPredatorBehavior.h" />
+		<Unit filename="Include\Behaviors\GenericPreyBehavior.h" />
+		<Unit filename="Include\Behaviors\HungerFactoredPredator.h" />
+		<Unit filename="Include\Behaviors\RandomFleePrey.h" />
+		<Unit filename="Include\Environment.h" />
+		<Unit filename="Include\Environments\SwampEnvironment.h" />
+		<Unit filename="Include\Environments\TestEnvironment.h" />
+		<Unit filename="Include\Predator.h" />
+		<Unit filename="Include\PredatorBehavior.h" />
+		<Unit filename="Include\PredatorBehaviorFamily.h" />
+		<Unit filename="Include\PredatorManager.h" />
+		<Unit filename="Include\Prey.h" />
+		<Unit filename="Include\PreyBehavior.h" />
+		<Unit filename="Include\PreyBehaviorFamily.h" />
+		<Unit filename="Include\PreyManager.h" />
+		<Unit filename="Include\ReportManager.h" />
+		<Unit filename="Include\ReportSection.h" />
+		<Unit filename="Include\SimulationBinder.h" />
+		<Unit filename="Include\SimulationManager.h" />
+		<Unit filename="Include\SimulationState.h" />
+		<Unit filename="Source\Animal.cpp" />
+		<Unit filename="Source\BehaviorFamilies\AggressivePredatorFamily.cpp" />
+		<Unit filename="Source\BehaviorFamilies\AlertPreyFamily.cpp" />
+		<Unit filename="Source\BehaviorFamilies\AmbushPredatorFamily.cpp" />
+		<Unit filename="Source\BehaviorFamilies\CarefulPreyFamily.cpp" />
+		<Unit filename="Source\BehaviorFamilies\DefensivePreyFamily.cpp" />
+		<Unit filename="Source\BehaviorFamilies\FelinePredatorFamily.cpp" />
+		<Unit filename="Source\BehaviorFamilies\GenericPredatorBehaviorFamily.cpp" />
+		<Unit filename="Source\BehaviorFamilies\GenericPreyBehaviorFamily.cpp" />
+		<Unit filename="Source\Behaviors\AggressivePredator.cpp" />
+		<Unit filename="Source\Behaviors\AlertPrey.cpp" />
+		<Unit filename="Source\Behaviors\AmbushPredator.cpp" />
+		<Unit filename="Source\Behaviors\CarefulPrey.cpp" />
+		<Unit filename="Source\Behaviors\DefensivePrey.cpp" />
+		<Unit filename="Source\Behaviors\FleeingPredator.cpp" />
+		<Unit filename="Source\Behaviors\GenericPredatorBehavior.cpp" />
+		<Unit filename="Source\Behaviors\GenericPreyBehavior.cpp" />
+		<Unit filename="Source\Behaviors\HungerFactoredPredator.cpp" />
+		<Unit filename="Source\Behaviors\RandomFleePrey.cpp" />
+		<Unit filename="Source\Environment.cpp" />
+		<Unit filename="Source\Environments\SwampEnvironment.cpp" />
+		<Unit filename="Source\Environments\TestEnvironment.cpp" />
+		<Unit filename="Source\Predator.cpp" />
+		<Unit filename="Source\PredatorManager.cpp" />
+		<Unit filename="Source\Prey.cpp" />
+		<Unit filename="Source\PreyManager.cpp" />
+		<Unit filename="Source\ReportManager.cpp" />
+		<Unit filename="Source\SimulationBinder.cpp" />
+		<Unit filename="Source\SimulationManager.cpp" />
+		<Unit filename="Source\SimulationState.cpp" />
+		<Unit filename="Source\main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

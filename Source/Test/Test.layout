@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Include\CameraTest.h" open="0" top="0" tabpos="0">
+		<Cursor position="268" topLine="0" />
+	</File>
+	<File name="Include\MainState.h" open="0" top="0" tabpos="0">
+		<Cursor position="152" topLine="0" />
+	</File>
+	<File name="Include\RenderTest.h" open="0" top="0" tabpos="4">
+		<Cursor position="240" topLine="0" />
+	</File>
+	<File name="Include\SceneGraphTest.h" open="0" top="0" tabpos="0">
+		<Cursor position="408" topLine="0" />
+	</File>
+	<File name="Include\main.h" open="0" top="0" tabpos="0">
+		<Cursor position="125" topLine="0" />
+	</File>
+	<File name="Source\CameraTest.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Source\MainState.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="293" topLine="0" />
+	</File>
+	<File name="Source\RenderTest.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="1278" topLine="16" />
+	</File>
+	<File name="Source\SceneGraphTest.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="449" topLine="15" />
+	</File>
+	<File name="Source\main.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="617" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

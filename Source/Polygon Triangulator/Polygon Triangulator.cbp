@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Polygon Triangulator" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Polygon Triangulator" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin\Debug\" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-gstabs" />
+					<Add option="-DDEBUG" />
+				</Compiler>
+				<Linker>
+					<Add library="Framework_d" />
+					<Add library="CEGUIBase_d" />
+					<Add library="hgehelp_d" />
+					<Add directory="..\Framework\Dependencies\CEGUI\Bin\Debug" />
+					<Add directory="..\Framework\Source\Bin\Debug" />
+					<Add directory="..\Framework\Dependencies\HGE\Bin\Debug" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Polygon Triangulator" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin\Release" />
+				<Option object_output="obj\Relase\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-DNDEBUG" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="Framework" />
+					<Add library="CEGUIBase" />
+					<Add library="hgehelp" />
+					<Add directory="..\Framework\Dependencies\CEGUI\Bin\Release" />
+					<Add directory="..\Framework\Source\Bin\Release" />
+					<Add directory="..\Framework\Dependencies\HGE\Bin\Release" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="..\Framework\Dependencies\HGE\Include" />
+			<Add directory="..\Framework\Source\Include" />
+			<Add directory="..\Framework\Dependencies\CEGUI\Include" />
+			<Add directory="Include\" />
+		</Compiler>
+		<Unit filename="Include\AlgorithmRunner.h" />
+		<Unit filename="Include\AlgorithmState.h" />
+		<Unit filename="Include\CyclicVector.h" />
+		<Unit filename="Include\PointShape.h" />
+		<Unit filename="Include\TriangleShape.h" />
+		<Unit filename="Source\AlgorithmRunner.cpp" />
+		<Unit filename="Source\AlgorithmState.cpp" />
+		<Unit filename="Source\PointShape.cpp" />
+		<Unit filename="Source\TriangleShape.cpp" />
+		<Unit filename="Source\main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

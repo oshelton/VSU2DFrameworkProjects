@@ -1,0 +1,67 @@
+Jack Owen Shelton
+
+This document contains a list of objects and functions available to scripts.
+
+The following object and methods are exposed by default in the Framework.
+Color Blending Constants:
+const int BLEND_ALPHA_ADD
+const int BLEND_ALPHA_BLEND
+const int BLEND_COLOR_ADD
+const int BLEND_COLOR_MUL
+const int BLEND_NOZ_WRITE
+const int BLEND_Z_WRITE
+const int BLEND_DEFAULT        - Combination of BLEND_Z_WRITE, BLEND_COLOR_MUL, and BLEND_ALPHA_BLEND
+
+HGE hgeRect class renamed to Rect, for representing simple boxes and such, registered as a value type:
+Rect.left() : double
+Rect.left(double) : double
+
+Rect.right() : double
+Rect.right(double) : double
+
+Rect.top() : double
+Rect.top(double) : double
+
+Rect.bottom() : double
+Rect.bottom(double) : double
+Rect.pointInside(double x, double y) : bool
+Rect.intersects(const Rect &in) : bool
+No-arg and four argument constructors.
+
+HGE hgeVector class renamed to Vector2, used for representing locations and etc, registered as a value type:
+Vector2.length() : double
+Vector2.angleBetween(Vector2) : double
+Vector2.clamp(double) : void
+Vector2.normalize() : void
+Vector2.rotate(float) : void
+Vector2.x : float
+Vector2.y : float
+No-arg and two argument constructors
+Operators overloaded for vector addition, subtraction, dot-product, and scalar multiplication and division.
+
+HGE hgeColor class renamed to Color, registered as a value type:
+Color.clamp() : void
+Color.r : double
+Color.g : double
+Color.b : double
+Color.a : double
+No-arg constructors and three and four arg constructors.
+Operators overloaded for Color addition, subtraction, multiplication, and division.
+
+Utils class which provides some simple utility functions.  Registered as the global object "utils":
+utils.getRandomInt(int min, int max) : int
+utils.getRandomDouble(double min, double max) : double
+utils.getFPS() : double
+utils.getDTime() : double
+utils.distanceBetween(Vector2, Vector2) : double
+utils.toString(int) : string
+utils.toString(double) : string
+utils.toInt(string) : int
+utils.toDouble(string) : double
+utils.writeToLog(string) : void
+
+The following functions are exposed by the Predator Prey Simulator
+createPredator(string type, string name, Vector2) : void
+createPredator(string type, Vector2) : void
+createPrey(string type, string name, Vector2) : void
+createPrey(string type, Vector2) : void

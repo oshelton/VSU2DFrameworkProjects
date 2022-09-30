@@ -1,0 +1,17 @@
+Polygon triangulation report.  This file is reset whenver the application is restarted.
+
+Clock Cycles Taken for Unoptomized Algorithm: 19
+Clock Cycles Taken for Optomized Algorithm: 19
+Time differencial, positive value means optomized version was faster: 0
+Decrease %: 0
+ Shape Points: Line points: 0=[-100.0 100.0] 1=[0.0 0.0] 2=[100.0 100.0] 3=[125.0 -100.0] 4=[-125.0 -100.0] 
+ Unoptomized Output: Triangle vertices: 0=[0.0 0.0] [100.0 100.0] [125.0 -100.0] 1=[-125.0 -100.0] [-100.0 100.0] [0.0 0.0] 2=[0.0 0.0] [125.0 -100.0] [-125.0 -100.0] 
+ Optomized Output: Triangle vertices: 0=[0.0 0.0] [100.0 100.0] [125.0 -100.0] 1=[-125.0 -100.0] [-100.0 100.0] [0.0 0.0] 2=[0.0 0.0] [125.0 -100.0] [-125.0 -100.0] 
+
+Clock Cycles Taken for Unoptomized Algorithm: 18
+Clock Cycles Taken for Optomized Algorithm: 18
+Time differencial, positive value means optomized version was faster: 0
+Decrease %: 0
+ Shape Points: Line points: 0=[-100.0 100.0] 1=[0.0 0.0] 2=[100.0 100.0] 3=[125.0 -100.0] 4=[-125.0 -100.0] 
+ Unoptomized Output: Triangle vertices: 0=[0.0 0.0] [100.0 100.0] [125.0 -100.0] 1=[-125.0 -100.0] [-100.0 100.0] [0.0 0.0] 2=[0.0 0.0] [125.0 -100.0] [-125.0 -100.0] 3=[0.0 0.0] [100.0 100.0] [125.0 -100.0] 4=[-125.0 -100.0] [-100.0 100.0] [0.0 0.0] 5=[0.0 0.0] [125.0 -100.0] [-125.0 -100.0] 
+ Optomized Output: Triangle vertices: 0=[0.0 0.0] [100.0 100.0] [125.0 -100.0] 1=[-125.0 -100.0] [-100.0 100.0] [0.0 0.0] 2=[0.0 0.0] [125.0 -100.0] [-125.0 -100.0] 3=[0.0 0.0] [100.0 100.0] [125.0 -100.0] 4=[-125.0 -100.0] [-100.0 100.0] [0.0 0.0] 5=[0.0 0.0] [125.0 -100.0] [-125.0 -100.0] 

@@ -1,0 +1,9 @@
+Log initialized.
+Created general utilities.
+Created timer manager.
+Created script manager.
+Creating scene manager.
+Created input manager.
+Created gui manager.
+Created render texture manager.
+Switching SystemState to: SimulationState.
