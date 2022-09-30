@@ -1,6 +1,6 @@
 # VSU 2D Frameowrk Projects - Archived
 
-**WARNING**: This code almost certainly does not compile; even if you took the time to update everything to a more recent version of Visual Studio. It is here for illustrative and historical purposes. Dependencies are provided in a .7z if you're feeling particularly brave and want to give it a go though.
+**WARNING**: This code almost certainly does not compile; even if you took the time to update everything to a more recent version of Visual Studio. It is here for illustrative and historical purposes. Dependencies are provided in a .7z if you're feeling particularly brave and want to give it a go though. The project files supplied are for [Code::Blocks](https://www.codeblocks.org/) I believe, but are over 10 years old.
 
 The projects within this repo were created for a handful of honors classes I took at Valdosta State University (2006-2010).
 
