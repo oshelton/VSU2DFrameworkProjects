@@ -16,3 +16,8 @@ There are 4 projects in this repo:
 - **Predator Prey Simulator:** Application that allows for the loading and observation of various predator and prey scenarious defined in Angelscript script files. Only the placement and kind of creature can really be scripted though (so nothing too exciting).
 
 The `Source\Predator Prey Simulator\bin\Release` directory does contain a working binary for the predator prey simulator, but sadly none of the other applications have functioning binaries.
+
+Screenshots:
+![simulation 1](screenshot1.jpg)
+![simulation 2](screenshot2.jpg)
+![triangulation](screenshot3.jpg)
